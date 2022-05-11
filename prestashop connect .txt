@@ -1,0 +1,9 @@
+pour acceder a prestashop :
+	127.0.0.1/prestashop/adminsouha (cest le nom du doc que j'ai sur le C:)
+
+pour se connecter :
+	souha.ajmi@gmail.com
+	resadmin
+	
+pour lancer le site : 
+	127.0.0.1/prestashop
